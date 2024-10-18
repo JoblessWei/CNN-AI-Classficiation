@@ -1,1 +1,8 @@
-.venv
+.cuda
+ImageData
+logs
+aitest.jpg
+Earth_from_Space.jpg
+Figure_1.png
+FIgure_2.png
+realpanda.jpg
